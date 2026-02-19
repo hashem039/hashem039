@@ -45,21 +45,21 @@ Badges (quick view):
 ---
 
 ## Certificates (selected)
-- PyTorch: Techniques and Ecosystem Tools — https://learn.deeplearning.ai/certificates/c07b75d4-a5d3-49e8-8390-d5bbb3b8b0e9  
+- **PyTorch: Techniques and Ecosystem Tools** — https://learn.deeplearning.ai/certificates/c07b75d4-a5d3-49e8-8390-d5bbb3b8b0e9  
   • Hyperparam tuning (Optuna) · TorchVision · Efficient data pipelines · NLP · Fine-tuning LLMs
 
-- Orchestrating Workflows for GenAI Applications — https://learn.deeplearning.ai/accomplishments/a20f2e98-2589-42bd-858f-cd0d9b3400c0?usp=sharing  
+- **Orchestrating Workflows for GenAI Applications** — https://learn.deeplearning.ai/accomplishments/a20f2e98-2589-42bd-858f-cd0d9b3400c0?usp=sharing  
   • Embeddings & RAG · LLMOps · Vector DBs · Event-driven GenAI
 
-- LangChain for LLM Application Development — https://learn.deeplearning.ai/accomplishments/6f1c1dde-7e65-4f90-9fa1-31230db5edcb?usp=sharing  
+- **LangChain for LLM Application Development** — https://learn.deeplearning.ai/accomplishments/6f1c1dde-7e65-4f90-9fa1-31230db5edcb?usp=sharing  
   • Agents · Chains · Prompt engineering · RAG
 
-- Building Code Agents with Hugging Face smolagents — https://learn.deeplearning.ai/accomplishments/528865ad-c2e6-4fce-9538-1dd0a98257b1
+- **Building Code Agents with Hugging Face smolagents** — https://learn.deeplearning.ai/accomplishments/528865ad-c2e6-4fce-9538-1dd0a98257b1
 
-- Building Live Voice Agents with Google’s ADK — https://learn.deeplearning.ai/accomplishments/3e7dc74e-9e59-49eb-bdc2-cc3ac82e6a85  
+- **Building Live Voice Agents with Google’s ADK** — https://learn.deeplearning.ai/accomplishments/3e7dc74e-9e59-49eb-bdc2-cc3ac82e6a85  
   • Gemini API · ADK · Voice agents
 
-- Finetuning Large Language Models — https://learn.deeplearning.ai/accomplishments/bd1efdba-c4ec-47a7-9d79-f3f677c4e2b5  
+- **Finetuning Large Language Models** — https://learn.deeplearning.ai/accomplishments/bd1efdba-c4ec-47a7-9d79-f3f677c4e2b5  
   • LoRA / QLoRA · Parameter-efficient fine-tuning
 
 ---
@@ -88,12 +88,12 @@ Badges (quick view):
 
 ---
 
-## Skills (detailed)
-Programming: Python · SQL · Java · C++ · Bash  
-ML & AI: PyTorch · TensorFlow · Scikit-learn · Transformers · Hugging Face · RAG · Prompt Engineering · LangGraph  
-GenAI & Automation: LangChain · LlamaIndex · FastAPI · REST APIs · Google ADK  
-MLOps & Tools: Docker · Git · CI/CD · MLflow (basic)  
-Cloud & Data: AWS (S3, EC2) · GCP (BigQuery) · PostgreSQL · MySQL
+## Skills
+**Programming:** Python · SQL · Java · C++ · Bash  
+**ML & AI:** PyTorch · TensorFlow · Scikit-learn · Transformers · Hugging Face · RAG · Prompt Engineering · LangGraph  
+**GenAI & Automation:** LangChain · LlamaIndex · FastAPI · REST APIs · Google ADK  
+**MLOps & Tools:** Docker · Git · CI/CD · MLflow (basic)  
+**Cloud & Data:** AWS (S3, EC2) · GCP (BigQuery) · PostgreSQL · MySQL
 
 ---
 
